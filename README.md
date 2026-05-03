@@ -1,6 +1,11 @@
-### control.exe
+## Using Classic Control Panel On Windows 11
 
-#### Canonical way:
+#### Opening Control Panel:
+```ps1
+control.exe
+```
+
+#### Canonical way of opening Add Remove Programs (ARP):
 ```ps1
 control.exe appwiz.cpl
 ```
